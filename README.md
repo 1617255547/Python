@@ -1,3 +1,1 @@
-(''')
-azsjcinascoascs
-(''')
+`create database hero;`
